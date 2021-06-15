@@ -21,8 +21,8 @@ Una vez facilitado el enlace de Classroom Github para los Proyectos Integrados q
 ### Información que debe aparecer en este README
 Siguiendo unas buenas prácticas de uso de repositorios en una plataforma de control de versiones, este README.md, al finalizar el proyecto debe aparecer **mínimo** la siguiente información:
 
-1. Descripción del proyecto
-2. Información sobre despliegue
+1. _**[Descripción del proyecto](https://github.com/iesgrancapitan-proyectos/202021ASIR-Junio-ArranqueRedClientesLigeros/wiki)**_
+2. _**[Información sobre despliegue](https://github.com/iesgrancapitan-proyectos/202021ASIR-Junio-ArranqueRedClientesLigeros/wiki/Entregables)**_
 3. Información sobre cómo usarlo
 4. Autores
 
