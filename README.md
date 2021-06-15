@@ -24,7 +24,7 @@ Siguiendo unas buenas prácticas de uso de repositorios en una plataforma de con
 1. _**[Descripción del proyecto](https://github.com/iesgrancapitan-proyectos/202021ASIR-Junio-ArranqueRedClientesLigeros/wiki)**_
 2. _**[Información sobre despliegue](https://github.com/iesgrancapitan-proyectos/202021ASIR-Junio-ArranqueRedClientesLigeros/wiki/Entregables)**_
 3. _**[Información sobre cómo usarlo](https://github.com/iesgrancapitan-proyectos/202021ASIR-Junio-ArranqueRedClientesLigeros/wiki/Entregables)**_
-4. Autores
+4. Autores (pie de página de la wiki)
 
 Como esta información debería estar detallada en la wiki, desarrollar una pequeña introducción y referenciar a la sección de la wiki donde esté toda la información detallada. _(Todo el contenido actual debe ser sustituido por esta información)_
 
